@@ -1,4 +1,4 @@
-# SHEXP!（シェクスプ）（Share Experienceから）
+# Shexp!（シェクスプ）（Share Experienceから）
 
 ## サイト概要
 #### 自身にとって当たり前な体験をシェアするマッチングサービスです。自分にとっての当たり前は、他人にとっては面白い体験になり得るという視点から、当たり前の体験をシェアできるサービスがあったら面白いと思い作成しました。
@@ -37,7 +37,7 @@
 ## 設計書
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1YbZsmjkN7cMtPHdddeU21f3f6gl5_BrMRwpbEI0omD0/edit#gid=0
 
 ## 開発環境
 - OS：Linux(CentOS)
